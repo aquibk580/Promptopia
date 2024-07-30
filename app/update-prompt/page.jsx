@@ -1,4 +1,3 @@
-// app/update-prompt/page.js
 import { Suspense } from "react";
 import dynamic from "next/dynamic";
 

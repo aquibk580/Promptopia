@@ -15,7 +15,6 @@ export const connectToMongo = async () => {
       dbName: "share_prompt",
       useNewUrlParser: true,
       useUnifiedTopology: true,
-      connectTimeoutMS: 10000,  
     });
 
     isConnected = true;
